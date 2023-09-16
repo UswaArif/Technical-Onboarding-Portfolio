@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "portfolio image.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Coffee Landing Scape Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a captivating coffee landscape website that takes people on a virtual journey into the world of coffee with beautiful pictures, warm colors, and interesting stories.",
+    url: "https://github.com/UswaArif/OIBSIP/tree/main/%F0%9D%92%90%F0%9D%92%8A%F0%9D%92%83%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%91_%F0%9D%92%95%F0%9D%92%82%F0%9D%92%94%F0%9D%92%8C%F0%9D%92%8F%F0%9D%92%901",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Personal Portfolio Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Craft a personal portfolio website to showcase your skills, experience, and accomplishments in a professional way.",
+    url: "https://github.com/UswaArif/OIBSIP/tree/main/%F0%9D%92%90%F0%9D%92%8A%F0%9D%92%83%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%91_%F0%9D%92%95%F0%9D%92%82%F0%9D%92%94%F0%9D%92%8C%F0%9D%92%8F%F0%9D%92%902",
   },
   {
-    title: "My Resume Site",
+    title: "Temperature Converter Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Build a user-friendly temperature converter website for quick and easy temperature unit conversions, making it convenient for users to switch between Celsius, Fahrenheit.",
+    url: "https://github.com/UswaArif/OIBSIP/tree/main/%F0%9D%92%90%F0%9D%92%8A%F0%9D%92%83%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%91_%F0%9D%92%95%F0%9D%92%82%F0%9D%92%94%F0%9D%92%8C%F0%9D%92%8F%F0%9D%92%903",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tea Distribution desktop application",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Develop a desktop application for your tea distribution company to streamline inventory management, order processing, and customer interactions.",
+    url: "https://github.com/UswaArif/Tea-Distribution-Company",
   },
 ];
 
